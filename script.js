@@ -66,8 +66,8 @@ const locations = [
   },
   {
     name: "kill monster",
-    "button text": ["Остаться в катакомбах", "Go to town square", "Вернуться в город"],
-    "button functions": [goCave, goTown, goTown],
+    "button text": ["Остаться в катакомбах", "Вернуться в лавку", "Вернуться в город"],
+    "button functions": [goCave, goStore, goTown],
     text: '"Аргххх!" Последнее что издает из себя поверженный противник. Вернуться в город?'
   },
   {
